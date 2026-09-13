@@ -11,8 +11,7 @@ O objetivo do material aqui documentado é aplicar conceitos teóricos de análi
 
 ## 👤 Autor
 
-* **Aluno:** Victor J. Teixeira da Silva
-* **Matrícula:** 11821ECP008
+* **Aluno:** Victor J. Teixeira
 * **Instituição:** Universidade Federal de Uberlândia (FEE)
 
 ## 📂 Estrutura do Projeto
